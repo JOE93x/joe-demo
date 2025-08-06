@@ -1,0 +1,10 @@
+#basic crud operations--user data --name ,email id (post,get,delete methods) using either flask or fastapi any db and test in postman
+
+fastapi
+psycopg2-binary
+python-dotenv
+flask
+jwt
+cors
+Sqlalchemy
+uvicorn
